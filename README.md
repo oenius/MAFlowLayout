@@ -10,6 +10,8 @@ Example
 Usage
 -----
 
+```objective-c
+
 @interface ViewController ()
 <
 UICollectionViewDataSource,
