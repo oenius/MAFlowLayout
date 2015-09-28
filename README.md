@@ -20,6 +20,12 @@ MACollectionViewDelegateFlowLayout
 >
 
 - (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout *)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath
+{
+//where u should return a certain size 
+//u want
+}
+
+```
 
 License
 -------
