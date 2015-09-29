@@ -24,8 +24,9 @@ MACollectionViewDelegateFlowLayout
 
 - (void)viewDidLoad {
   [super viewDidLoad];
-  
+  self.view.backgroundColor = [UIColor whiteColor];
   [UIApplication sharedApplication].statusBarHidden = YES;
+  self.collectionView.backgroundColor = [UIColor whiteColor];
   
   self.collectionView.delegate = self;
   self.collectionView.dataSource = self;
