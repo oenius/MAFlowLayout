@@ -5,7 +5,7 @@ MACollectionViewFlowLayout is a subclass of UICollectionViewLayout that could po
 Example
 -------
 
-![Framed example screenshot](https://github.com/oenius/MAFlowLayout/blob/master/MAFlowLayoutDemo/demo.png)
+![Framed example screenshot](https://github.com/oenius/MAFlowLayout/blob/master/MAFlowLayoutDemo/demo.gif)
 
 Usage
 -----
